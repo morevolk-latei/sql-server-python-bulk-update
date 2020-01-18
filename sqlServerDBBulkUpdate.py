@@ -1,12 +1,12 @@
 import pyodbc
 import pandas as pd
 
-db_username = 'edkent'
-db_pass = 'TrlDev1*'
+db_username = '*******'
+db_pass = '*******'
 db_name = 'TRL_DBTest'
 db_schema = 'dbo'
-db_url = '65.17.225.237'
-# db_url = '65.17.225.237,5432'
+db_url = 'IP,PORT'
+
 db_table_name = 'products'
 db_col_to_update = 'cstock'
 db_col_key = 'ccode'
