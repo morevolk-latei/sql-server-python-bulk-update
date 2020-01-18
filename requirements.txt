@@ -1,0 +1,10 @@
+et-xmlfile==1.0.1
+jdcal==1.4.1
+numpy==1.18.1
+openpyxl==3.0.3
+pandas==0.25.3
+pyodbc==4.0.28
+python-dateutil==2.8.1
+pytz==2019.3
+six==1.14.0
+xlrd==1.2.0
