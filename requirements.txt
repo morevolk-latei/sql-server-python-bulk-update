@@ -1,6 +1,6 @@
 et-xmlfile==1.0.1
 jdcal==1.4.1
-numpy==1.18.1
+numpy==1.22.0
 openpyxl==3.0.3
 pandas==0.25.3
 pyodbc==4.0.28
